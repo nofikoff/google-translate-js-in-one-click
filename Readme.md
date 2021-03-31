@@ -1,4 +1,4 @@
-**Google translate in one clilck icons**
+**Google Translate in one click icons**
 
 Example work on https://pogonyalo.com
 
